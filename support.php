@@ -16,11 +16,11 @@
     </header>
     <main>
         <section style="background-color: #985d6f; padding-top: 120px; color: #e3cdbd;">
-             <div style="padding-bottom: 32px">
+             <div>
                 <div>
                     <img src="imgs/at-lp5x_04(1).png" alt="" style="width: 400px; height: 300px; object-fit: cover;">
                 </div>
-                <div>
+                <div style="width: 50%;">
                     <h2>Support</h2>
                     <p>Customer satisfaction is our top priority. Our team is here to assist you at every step of the purchasing journey, providing personalized support, answering questions, and offering recommendations if needed. We want your experience with Georgian Records to be exceptional, from the moment you visit our website to the moment your turntable is playing your favorite tunes.</p>
                 </div>

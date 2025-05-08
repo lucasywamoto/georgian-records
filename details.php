@@ -17,12 +17,16 @@
     <main>
         <section class="two-rows-sec" style="background-color: #4b4f6c;">
             <div class="full-width">
-                <div class="text-block" style="color: #e3cdbd;">
+                <div class="text-block" style="color: #e3cdbd; display: flex;
+  flex-direction: column;
+  justify-content: center;">
                     <h2>How does<br>it work?</h2>
                     <p>The process of playing a record involves placing the vinyl disc on the platter and gently lowering the tonearm onto the record. As the record spins, the stylus (needle) follows the grooves on the record, converting the physical variations in the grooves into electrical signals. These electrical signals are then amplified and sent to the speakers, producing the music or sound for us to enjoy.</p>
                     <p>The intricacy and precision of the mechanical components in a record player are essential in faithfully reproducing the audio stored on vinyl records and delivering a rich and warm listening experience.</p>
                 </div>       
-                <div class="details-section-1-img">
+                <div class="home-section-2-img">
+                    <img src="../imgs/at-lp5x_06.png" alt="" style="width: 100%; height: 100%;" >
+                </div>
                 </div>
             </div>
         </section>
@@ -36,7 +40,7 @@
                 <h2 style="text-align: center; margin-top: 0; padding-top: 64px;">How to use it?</h2>
                 <p style="text-align: center;">Using a record player may seem a bit intimidating if you're new to vinyl, but fear not! Follow these step-by-step instructions to enjoy your Record Player Pro with ease:</p>
             </div>
-            <div style="width: 100%; display: inline-block;">
+            <div style="width: 100%; display: flex;">
                 <div class="steps-row">
                     <div class="steps-items">
                         <h3>1. Setting up the Record Player Pro</h3>
@@ -87,8 +91,8 @@
                     </div>
                 </div>
             </div>
-            <div style="padding-bottom: 32px">
-                <div>
+            <div style="padding-bottom: 32px; padding-top: 0;">
+                <div style="margin: auto;">
                     <img src="imgs/at-lp5x_05.png" alt="" style="width: 400px; height: 200px; object-fit: cover;">
                 </div>
                 <div>

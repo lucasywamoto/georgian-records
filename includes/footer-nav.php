@@ -4,9 +4,9 @@
     </div>
     <div>
         <nav>
-            <a href="" title="Read our Privacy Policy">Privacy Policy</a> | 
-            <a href="" title="Learn about how we treat your personal information">Use of Personal Information</a> | 
-            <a href="" title="Understand our Terms of Use">Terms of Use</a> | 
+            <a href="" title="Read our Privacy Policy">Privacy Policy</a> <span class="footer-nav-separator">|</span> 
+            <a href="" title="Learn about how we treat your personal information">Use of Personal Information</a> <span class="footer-nav-separator">|</span> 
+            <a href="" title="Understand our Terms of Use">Terms of Use</a> <span class="footer-nav-separator">|</span> 
             <a href="" title="Our Limitation of Liability explained">Limitation of Liability</a>
         </nav>
     </div> 

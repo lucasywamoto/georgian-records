@@ -27,7 +27,7 @@
                 <div><img src="imgs/at-lp5x_03.png" alt="record player" style="position: relative; left: -10%; width: 125%;"></div>
                 <div class="text-block">
                     <h2>Introducing Record<br>Player Pro,</h2>
-                    <p>the ultimate professional turntable that elevates your vinyl experience to new heights. Impeccable materials ensure stable rotation and accurate tracking, while the belt-drive design offers superior torque for exceptional sound quality. Adjustable speeds (33 1/3, 45, and 78 RPM) faithfully reproduce music, and advanced isolation minimizes unwanted vibrations. Enjoy personalized setups with detachable/upgradable components and premium cartridges (MC or MM) that reveal fine details from your vinyl records. Precise tracking force adjustment protects your vinyl, while electronic speed control ensures consistent playback. With USB connectivity and multiple grounding options, this elegant masterpiece awaits you here, at Georgian Records.</p>
+                    <p>a high-end turntable designed for audiophiles, featuring premium materials, precise tracking, and advanced vibration isolation. It offers adjustable speeds (33 1/3, 45, 78 RPM), upgradable components, and USB connectivity. With electronic speed control and premium cartridges, it delivers exceptional sound quality and customization — available now at Georgian Records.</p>
                     <a class="button" href="details.php">DETAILS</a>
                 </div>
             </div>
@@ -37,21 +37,15 @@
                 <div class="text-block" style="color: #e3cdbd; margin-left: 5%;">
                     <h2>Features</h2>
                     <ul style="padding-left: 0;">
-                        <li>High-end components and impeccable materials for stable rotation and accurate tracking.</li>
-                        <li>Belt-drive turntable, better torque for improved sound quality.</li>
-                        <li>Adjustable speeds (33 1/3, 45, and 78 RPM) for faithful music reproduction.</li>
-                        <li>Detachable/upgradable components for personalized setups.</li>
-                        <li>Premium cartridges (MC or MM) for extracting fine details from vinyl records.</li>
-                        <li>Advanced isolation to minimize unwanted vibrations.</li>
-                        <li>Electronic speed control for consistent playback speeds.</li>
-                        <li>Pitch control for precise speed adjustments.</li>
-                        <li>External power supply for cleaner audio performance.</li>
-                        <li>USB connectivity for digitizing vinyl collections.</li>
-                        <li>Multiple grounding options for optimal signal purity.</li>
-                        <li>Refined aesthetics and craftsmanship for a stunning addition to your setup.</li>
+                        <li>Premium build quality with high-end components and belt-drive system for superior sound reproduction.</li>
+                        <li>Versatile playback with adjustable speeds (33 1/3, 45, 78 RPM) and customizable components.</li>
+                        <li>Advanced features including vibration isolation, electronic speed control, and premium cartridges.</li>
+                        <li>Modern connectivity with USB port for digitizing vinyl and multiple grounding options.</li>
+                        <li>Elegant design and exceptional craftsmanship for both performance and aesthetics.</li>
                     </ul>
                 </div>
                 <div class="home-section-2-img">
+                    <img src="../imgs/at-lp5x_07.png" alt="" style="width: 100%; height: 100%;" >
                 </div>
             </div>
         </section>
@@ -79,9 +73,7 @@
                 <div><img src="imgs/pngwing.com.png" alt="record player" class="rotate" style="width: 80%;"></div>
                 <div class="text-block" style="color: #e3cdbd;">
                     <h2>Why is it good?</h2>
-                    <p>Discover the unparalleled performance of Record Player Pro, the best professional record player that takes your vinyl experience to new heights. With high-quality components ensuring stable rotation, accurate tracking, and belt-drive turntable for superior torque delivering impeccable sound quality. Enjoy faithful music reproduction with adjustable speeds (33 1/3, 45, and 78 RPM), while our robust anti-vibration design minimizes interference and resonance for pure sonic bliss.</p>
-                    <p>Personalize your setup with detachable/upgradable components, complemented by premium cartridges (MC or MM) that extract fine details from your vinyl records. Precise tracking force adjustment safeguards your vinyl from wear and tear, while isolation feet minimize unwanted vibrations. Experience consistent playback speeds with electronic speed control and cleaner audio performance with an external power supply. Digitize your collection with USB connectivity and ensure optimal signal purity with multiple grounding options.</p>      
-                    <p>Exuding elegance and craftsmanship, Record Playing Pro makes a stunning addition to your setup, elevating your listening experience to symphonic levels. Unleash the full potential of your vinyl collection with Record Playing Pro, available exclusively at Georgian Records.</p>
+                    <p>Record Player Pro is a premium professional turntable that delivers exceptional vinyl playback with precision and elegance. Featuring high-quality components, a belt-drive system, adjustable speeds (33 1/3, 45, 78 RPM), and advanced anti-vibration design, it ensures stable, high-fidelity sound. Customizable with detachable parts and premium cartridges (MC or MM), it also offers precise tracking, USB connectivity for digitization, and multiple grounding options for cleaner audio. Available exclusively at Georgian Records, it’s built for audiophiles seeking top-tier performance and craftsmanship.</p>
                     <a class="button" href="reviews.php" style="background-color: #e3cdbd; color: #1b2132;">REVIEWS</a>
                 </div>
             </div>
