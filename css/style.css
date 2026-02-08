@@ -642,7 +642,6 @@ footer nav a:focus-visible {
 }
 
 .support-form textarea {
-  max-width: 100%;
   resize: vertical;
 }
 
@@ -857,10 +856,6 @@ form .button:focus-visible {
   .footer-nav-separator {
     display: none;
   }
-
-  .profile {
-    flex-direction: column;
-  }
 }
 
 @media (max-width: 480px) {
@@ -887,4 +882,108 @@ form .button:focus-visible {
   .profile {
     padding: 16px;
   }
+}
+
+/* Utility Classes */
+.bg-primary {
+  background-color: var(--color-primary);
+}
+
+.bg-secondary {
+  background-color: var(--color-secondary);
+}
+
+.bg-accent {
+  background-color: var(--color-accent);
+}
+
+.bg-tertiary {
+  background-color: var(--color-tertiary);
+}
+
+.color-primary {
+  color: var(--color-primary);
+}
+
+.color-tertiary {
+  color: var(--color-tertiary);
+}
+
+.text-center {
+  text-align: center;
+}
+
+.padding-top-large {
+  padding-top: 80px;
+}
+
+@media (min-width: 768px) {
+  .padding-top-large {
+    padding-top: 120px;
+  }
+}
+
+.padding-bottom-medium {
+  padding-bottom: 32px;
+}
+
+.padding-bottom-large {
+  padding-bottom: 60px;
+}
+
+.margin-top-medium {
+  margin-top: var(--spacing-lg);
+}
+
+.banner-title {
+  color: var(--color-tertiary);
+  font-size: clamp(48px, 8vw, 72px);
+  text-align: left;
+  letter-spacing: 3px;
+  line-height: 1.2;
+}
+
+.section-full-height {
+  height: 100%;
+}
+
+.centered-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 5%;
+}
+
+.image-responsive {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image-extended {
+  position: relative;
+  left: -10%;
+  width: 125%;
+}
+
+@media (max-width: 768px) {
+  .image-extended {
+    left: 0;
+    width: 100%;
+  }
+}
+
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+
+/* Focus states for all interactive elements */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--color-tertiary);
+  outline-offset: 2px;
 }
