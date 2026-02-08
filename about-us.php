@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Home | Georgian Records</title>
 	<meta name="author" content="Georgian Records, Inc.">
 	<meta name="description" content="Georgian Records' Player Promotional Website">
