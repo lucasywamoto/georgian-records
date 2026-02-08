@@ -249,7 +249,6 @@ h2 {
   transition: all var(--transition-normal) ease;
   min-width: 44px;
   min-height: 44px;
-  will-change: transform;
 }
 
 .button:hover,
@@ -258,6 +257,7 @@ h2 {
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
   outline: 2px solid var(--color-tertiary);
   outline-offset: 2px;
+  will-change: transform;
 }
 
 .full-width {
@@ -439,7 +439,6 @@ footer nav a:focus-visible {
   background-color: var(--color-accent);
   border-radius: var(--radius-lg);
   transition: all var(--transition-normal) ease;
-  will-change: transform;
 }
 
 @media (min-width: 768px) {
@@ -458,6 +457,7 @@ footer nav a:focus-visible {
 .steps-items:focus-within {
   box-shadow: 0 5px 15px rgba(0,0,0,0.3);
   transform: translateY(-5px);
+  will-change: transform;
 }
 
 .video-container {
@@ -558,7 +558,6 @@ footer nav a:focus-visible {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-md);
-  will-change: transform;
 }
 
 @media (min-width: 480px) {
@@ -605,6 +604,7 @@ footer nav a:focus-visible {
 .profile:focus-within {
   background-color: var(--color-light);
   transform: translateY(-5px);
+  will-change: transform;
 }
 
 /* Form Styles */
